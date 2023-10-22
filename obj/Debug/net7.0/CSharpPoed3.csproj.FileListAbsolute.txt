@@ -1,0 +1,15 @@
+D:\prikoli\C#Poed3\CSharpPoed3\bin\Debug\net7.0\CSharpPoed3.exe
+D:\prikoli\C#Poed3\CSharpPoed3\bin\Debug\net7.0\CSharpPoed3.deps.json
+D:\prikoli\C#Poed3\CSharpPoed3\bin\Debug\net7.0\CSharpPoed3.runtimeconfig.json
+D:\prikoli\C#Poed3\CSharpPoed3\bin\Debug\net7.0\CSharpPoed3.dll
+D:\prikoli\C#Poed3\CSharpPoed3\bin\Debug\net7.0\CSharpPoed3.pdb
+D:\prikoli\C#Poed3\CSharpPoed3\obj\Debug\net7.0\CSharpPoed3.csproj.AssemblyReference.cache
+D:\prikoli\C#Poed3\CSharpPoed3\obj\Debug\net7.0\CSharpPoed3.GeneratedMSBuildEditorConfig.editorconfig
+D:\prikoli\C#Poed3\CSharpPoed3\obj\Debug\net7.0\CSharpPoed3.AssemblyInfoInputs.cache
+D:\prikoli\C#Poed3\CSharpPoed3\obj\Debug\net7.0\CSharpPoed3.AssemblyInfo.cs
+D:\prikoli\C#Poed3\CSharpPoed3\obj\Debug\net7.0\CSharpPoed3.csproj.CoreCompileInputs.cache
+D:\prikoli\C#Poed3\CSharpPoed3\obj\Debug\net7.0\CSharpPoed3.dll
+D:\prikoli\C#Poed3\CSharpPoed3\obj\Debug\net7.0\refint\CSharpPoed3.dll
+D:\prikoli\C#Poed3\CSharpPoed3\obj\Debug\net7.0\CSharpPoed3.pdb
+D:\prikoli\C#Poed3\CSharpPoed3\obj\Debug\net7.0\CSharpPoed3.genruntimeconfig.cache
+D:\prikoli\C#Poed3\CSharpPoed3\obj\Debug\net7.0\ref\CSharpPoed3.dll
